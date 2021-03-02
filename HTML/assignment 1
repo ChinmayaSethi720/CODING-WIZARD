@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CODING WIZARD CLUB</title>
+    </head>
+    <BODY>
+        <h1 style="color: red; size: 60px; text-align: center;">Welcome to CWC Club</h1>
+        <hr style="color: red;">
+        <p style="text-align: center; color: royalblue;">CHINMAYA PRIYADARSHAN SETHI</p>
+        <br>
+        <p>
+            <ol style="size: 16px; color: royalblue;">
+                <li>1941012849</li>
+                <li>Graduating year: 2023</li>
+                <li>Watching Anime</li>
+                <li>Achievement: I have already learned HTML</li>
+                <li>DOB: 11/07/2000</li>
+            </ol>
+             
+        </p>
+        <br>
+        <p style="text-align: center; color: red;">
+            <img src="soa logo.png" alt="SOA logo">
+            <br>
+            "After every sunset, <br> there comes a new day"
+        </p>
+    </BODY>
+</html>
